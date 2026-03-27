@@ -13,12 +13,13 @@ The internship provided hands-on experience in solving real-world data science p
 ```
 British_Airways_Virtual_Internship/
 │
-├── 📄 README.md  # You are here!!
+!
 │
 └── 📁 British Airways Data Science - Forage Virtual Internship/
     ├── 📓 Task 1 - Customer Review Analysis.ipynb
     ├── 📓 Task 2 - Predictive Modeling.ipynb
     ├── 📂 Supporting files
+    ├── 📄 README.md  # You are here!
     
 ```
 
