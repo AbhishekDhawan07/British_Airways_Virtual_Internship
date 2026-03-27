@@ -7,8 +7,9 @@
 This repository contains my work completed as part of the **British Airways Data Science Virtual Internship** offered through Forage.  
 The internship provided hands-on experience in solving real-world data science problems, focusing on customer insights and predictive modeling within the aviation industry.
 
+
 ## 🖼️ British Airways
-![British Airways Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/British_Airways_logo.svg/1200px-British_Airways_logo.svg.png)
+![British Airways Logo](https://upload.wikimedia.org/wikipedia/commons/a/a9/British_Airways_logo.svg)
 ---
 
 ## 📁 Repository Structure
