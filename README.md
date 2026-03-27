@@ -19,7 +19,7 @@ British_Airways_Virtual_Internship/
     ├── 📓 Task 1 - Customer Review Analysis.ipynb
     ├── 📓 Task 2 - Predictive Modeling.ipynb
     ├── 📂 Supporting files
-    └── 📄 README.md
+    
 ```
 
 ---
