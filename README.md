@@ -8,8 +8,12 @@ This repository contains my work completed as part of the **British Airways Data
 The internship provided hands-on experience in solving real-world data science problems, focusing on customer insights and predictive modeling within the aviation industry.
 
 
-## 🖼️ British Airways
-![British Airways Logo](https://upload.wikimedia.org/wikipedia/commons/a/a9/British_Airways_logo.svg)
+# 🖼️ British Airways
+
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/British_Airways_logo.svg/1024px-British_Airways_logo.svg.png" width="400" alt="British Airways Logo">
+</p>
+
 ---
 
 ## 📁 Repository Structure
