@@ -1,4 +1,5 @@
 # ✈️ British Airways Virtual Internship – Data Science  
+
 ---
 
 ## 🌟 Overview
@@ -6,7 +7,6 @@ This repository contains my work completed as part of the **British Airways Data
 The internship provided hands-on experience in solving real-world data science problems, focusing on customer insights and predictive modeling within the aviation industry.
 
 ---
-
 
 ## 📁 Repository Structure
 
@@ -18,10 +18,8 @@ British_Airways_Virtual_Internship/
 └── 📁 British Airways Data Science - Forage Virtual Internship/
     ├── 📓 Task 1 - Customer Review Analysis.ipynb
     ├── 📓 Task 2 - Predictive Modeling.ipynb
-    └── 📂 Supporting files
-```
-
-Also add Redame.md in Project Structure
+    ├── 📂 Supporting files
+    └── 📄 README.md
 ```
 
 ---
@@ -109,9 +107,6 @@ This task focused on building a machine learning model to predict customer behav
 You can view my internship completion certificate here:
 
 🔗 [View Certificate](https://drive.google.com/file/d/1RIn511EnBbQpBAtP5awkIZG8xD9UCIcU/view?usp=drivesdk)
-
----
-
 
 ---
 
