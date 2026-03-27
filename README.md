@@ -9,10 +9,11 @@ The internship provided hands-on experience in solving real-world data science p
 
 
 ## 🖼️ British Airways
+# 🖼️ British Airways
 
-<h2>🖼️ British Airways</h2>
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/British_Airways_logo.svg" alt="British Airways Logo" width="300"/>
-
+<p align="left">
+  <img src="https://logo.clearbit.com/britishairways.com" width="300" alt="British Airways Logo">
+</p>
 ---
 
 ## 📁 Repository Structure
