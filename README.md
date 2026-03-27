@@ -9,7 +9,6 @@ The internship provided hands-on experience in solving real-world data science p
 
 
 ## 🖼️ British Airways
-# 🖼️ British Airways
 
 <p align="left">
   <img src="https://logo.clearbit.com/britishairways.com" width="300" alt="British Airways Logo">
