@@ -1,6 +1,4 @@
 # ✈️ British Airways Virtual Internship – Data Science  
-## 📊 Repository: **British_Airways_Virtual_Internship**
-
 ---
 
 ## 🌟 Overview
