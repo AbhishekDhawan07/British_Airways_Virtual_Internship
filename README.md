@@ -15,7 +15,7 @@ British_Airways_Data_Science_Internship/
 │
 !
 │
-└── 📁 British Airways Data Science - Forage Virtual Internship/
+└── 📁 British Airways Data Science Internship/
     ├── 📓 Task 1 - Customer Review Analysis.ipynb
     ├── 📓 Task 2 - Predictive Modeling.ipynb
     ├── 📂 Supporting files
