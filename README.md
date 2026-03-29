@@ -1,9 +1,9 @@
-# ✈️ British Airways Virtual Internship – Data Science  
+# ✈️ British Airways Data Science Internship  
 
 ---
 
 ## 🌟 Overview
-This repository contains my work completed as part of the **British Airways Data Science Virtual Internship** offered through Forage.  
+This repository contains my work completed as part of the **British Airways Data Science Internship** offered through Forage.  
 The internship provided hands-on experience in solving real-world data science problems, focusing on customer insights and predictive modeling within the aviation industry.
 
 ---
@@ -11,7 +11,7 @@ The internship provided hands-on experience in solving real-world data science p
 ## 📁 Repository Structure
 
 ```
-British_Airways_Virtual_Internship/
+British_Airways_Data_Science_Internship/
 │
 !
 │
@@ -40,7 +40,7 @@ British_Airways_Virtual_Internship/
 ---
 
 ## 🏢 About the Internship
-The British Airways Virtual Internship focuses on applying **data science techniques** to real business challenges.  
+The British Airways Data Science Internship focuses on applying **data science techniques** to real business challenges.  
 It simulates the role of a data scientist working within an airline company to derive actionable insights from data.
 
 ---
